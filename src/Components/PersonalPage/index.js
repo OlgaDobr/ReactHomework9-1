@@ -1,5 +1,6 @@
 import React from "react";
 
+
 class PersonalPage extends React.Component {
     constructor(props) {
         super(props)
@@ -21,5 +22,7 @@ class PersonalPage extends React.Component {
         );}
     
 }
+
+  
 
 export default PersonalPage;
